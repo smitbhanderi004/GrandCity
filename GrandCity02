@@ -1,0 +1,22 @@
+{
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://831.win.qureka.com/",
+   "more_app":"https://raw.githubusercontent.com/RoyalItInfotech/Portfolio/main/db.json",
+   "admob_showAdStatus":"1",
+   "AppID":"ca-app-pub-6142837536218293~7096379515",
+   "Admob_Banner":"ca-app-pub-6142837536218293/6876370740",
+   "Admob_Interstitial":"ca-app-pub-6142837536218293/4988574005",
+   "Admob_Native":"ca-app-pub-6142837536218293/7025254990",
+   "AppOpen":"",
+   "fbad_showStatus":"0",
+   "mopub_banner":"b2996a70255848d0aa42bbc40b8456d6",
+   "mopub_inter1":"8561b1c8823a4153892717bfd8a67e19",
+   "mopub_inter2":"8561b1c8823a4153892717bfd8a67e19",
+   "mopub_inter3":"8561b1c8823a4153892717bfd8a67e19",
+   "mopub_native":"f9b009e805664528974e49f0fc9be8cc"
+}
